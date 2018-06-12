@@ -1,0 +1,76 @@
+body,body header{
+	width: 1024px;
+}
+
+
+
+h2{
+	background-color: #FFA07A;
+	text-align: center;
+}
+
+
+li {
+	list-style: none;
+}
+
+header {
+	height: 65px;
+	background: #F08080;
+	text-align: center;
+	position: fixed;
+	width: 100%;
+
+}
+header ul {
+	width: 900px;
+	margin: 0 auto;
+	display: block;
+}
+header li {
+	float: left;
+	width: 20%;
+	line-height: 60px;
+}
+
+/*header ul li .logo{
+	float: left;
+}
+
+header ul li .menu{
+	float: right;
+}*/
+
+
+
+
+
+header li a{
+	color: #fff;
+}
+
+article img {
+	height: 768px;
+	width: 1024px;
+}
+
+
+
+#sec2 img{
+	height: 384px;
+	width: 512px;
+}
+
+#sec4 {
+	text-align: center;
+}
+
+
+input#submit_button {
+  padding: 15px 40px;
+  font-size: 1.2em;
+  background-color:#F08080;
+  color: #fff;
+  border-style: none;
+	cursor: pointer;
+}
